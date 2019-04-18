@@ -1,7 +1,7 @@
 # Graph Album Covers by Year
 Creates a graph of the albums in your library sorted by year for Google Play Music.
 
-![picture alt](https://raw.githubusercontent.com/acccasio/gmusic-graphed/master/example_graph.jpg)
+![picture alt](https://raw.githubusercontent.com/accasio/gmusic-graphed/master/example_graph.jpg)
 
 
 ## To create your own graph 
